@@ -24,6 +24,10 @@ public class changess2 {
 		System.out.println("changes18");
 		System.out.println("changes19");
 		System.out.println("changes20");
+		System.out.println("changes21");
+		System.out.println("changes22");
+		System.out.println("changes23");
+		System.out.println("changes24");
 		
 		
 	}
