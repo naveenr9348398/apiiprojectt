@@ -1,6 +1,6 @@
 package changes;
 
-public class changess {
+public class changess2 {
 	
 	public static void main(String[] args) {
 		System.out.println("changes1");
@@ -15,13 +15,13 @@ public class changess {
 		System.out.println("changes10");
 		System.out.println("changes11");
 		System.out.println("changes12");
+		System.out.println("changes12");
 		System.out.println("changes13");
 		System.out.println("changes14");
 		System.out.println("changes15");
 		System.out.println("changes16");
 		System.out.println("changes17");
 		System.out.println("changes18");
-		
 		
 		
 	}
